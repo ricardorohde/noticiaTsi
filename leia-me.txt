@@ -1,0 +1,1 @@
+Nosso grupo teve problemas com o xml schema por nunca utilizamos ele na pratica, e nosso WebService tambm não funcionou.

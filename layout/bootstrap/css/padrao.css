@@ -1,0 +1,41 @@
+
+body{
+    background-color: #b2dba1   ;
+   
+}
+
+.formLogin{
+    margin-top: 50px;
+    
+}
+.mensagemErro{
+    border: solid 1px;
+    border-color: red;
+    background-color: #ff7777;
+    height: 50px;
+    border-radius: 10px;
+    line-height:50px;
+}
+a:link, a:visited {
+	text-decoration: none;
+	}
+a:hover {
+	text-decoration: none; 
+	
+	}
+a:active {
+	text-decoration: none;
+	}
+        
+        
+        
+.center{
+  margin: 0 auto;  
+}
+.tabela-border{
+    width: 500px;
+    height: 300px;
+}
+.tabela-fonte{
+    font-size: 30px;
+}
